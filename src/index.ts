@@ -1,4 +1,4 @@
-import { GenerateProps, generate } from 'ts-to-zod';
+import { GenerateProps, generate } from '@gzzhanghao/ts-to-zod';
 import type { PluginOption } from 'vite';
 
 export type Options = Omit<

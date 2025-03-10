@@ -20,14 +20,14 @@ export default defineConfig({
 ```
 
 ```ts
-// src/index.ts
-import { heroSchema } from './hero?zod';
-import { type Hero } from './hero';
-```
-
-```ts
 // src/hero.ts
 export interface Hero {
   name: string;
 }
+```
+
+```ts
+// src/index.ts
+import { heroSchema } from './hero?zod';
+import { type Hero } from './hero';
 ```
