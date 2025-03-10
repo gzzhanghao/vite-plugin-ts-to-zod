@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-ts-to-zod",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Vite plugin to transform typescript types to zod schemas",
   "keywords": [
     "vite",
