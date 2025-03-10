@@ -10,7 +10,7 @@ pnpm i -D vite-plugin-ts-to-zod
 
 ```ts
 // vite.config.ts
-import viteZod from 'vite-plugin-ts-to-zod';
+import { viteZod } from 'vite-plugin-ts-to-zod';
 
 export default defineConfig({
   plugins: [
