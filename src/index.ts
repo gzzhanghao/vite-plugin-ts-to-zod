@@ -6,7 +6,7 @@ export type Options = Omit<
   'sourceText' | 'inputOutputMappingFn'
 >;
 
-const zod = (options?: Options): PluginOption => {
+export const viteZod = (options?: Options): PluginOption => {
   return {
     name: 'vite:ts-to-zod',
     enforce: 'pre',
@@ -26,5 +26,3 @@ const zod = (options?: Options): PluginOption => {
     },
   };
 };
-
-export default zod;
