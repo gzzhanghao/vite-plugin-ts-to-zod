@@ -7,6 +7,9 @@
     "vite-plugin",
     "zod"
   ],
+  "repository": {
+    "url": "https://github.com/gzzhanghao/vite-plugin-ts-to-zod"
+  },
   "type": "module",
   "exports": {
     ".": {
