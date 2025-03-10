@@ -1,5 +1,11 @@
 # vite-plugin-ts-to-zod
 
+## 0.1.4
+
+### Patch Changes
+
+- 4947a6e: Update readme
+
 ## 0.1.3
 
 ### Patch Changes
