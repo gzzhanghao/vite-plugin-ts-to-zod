@@ -34,7 +34,7 @@
     ]
   },
   "dependencies": {
-    "@gzzhanghao/ts-to-zod": "^3.16.0"
+    "@gzzhanghao/ts-to-zod": "^3.16.1"
   },
   "devDependencies": {
     "@changesets/changelog-git": "^0.2.1",
