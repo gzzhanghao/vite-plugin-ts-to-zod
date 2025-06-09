@@ -1,5 +1,11 @@
 # vite-plugin-ts-to-zod
 
+## 0.1.5
+
+### Patch Changes
+
+- d7b3025: Upgrade ts-to-zod
+
 ## 0.1.4
 
 ### Patch Changes
